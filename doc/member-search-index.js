@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"MethodWithReturntype","c":"sample2","l":"getlengthofString(String)","url":"getlengthofString(java.lang.String)"},{"p":"MethodWithReturntype","c":"sample2","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"MethodWithReturntype","c":"sample2","l":"sample2()","url":"%3Cinit%3E()"}]
